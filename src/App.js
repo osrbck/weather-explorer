@@ -23,7 +23,7 @@ function App() {
   return (
      <div className='App py-20 text-center'>
       <h1 className="py-20 mb-20 text-4xl font-bold underline ">
-        Weather-App.js
+        Weather Explorer
       </h1>
       <input
       onChange={(e)=> setSearch(e.target.value)}
